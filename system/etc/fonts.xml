@@ -42,11 +42,11 @@
     <family>
         <font weight="100" style="normal">SourceHanSansSC-ExtraLight.otf</font>
         <font weight="200" style="normal">SourceHanSansSC-Light.otf</font>
-        <font weight="300" style="normal">SourceHanSansSC-Normal.otf</font>
-        <font weight="400" style="normal">SourceHanSansSC-Regular.otf</font>
-        <font weight="500" style="normal">SourceHanSansSC-Medium.otf</font>
-        <font weight="600" style="normal">SourceHanSansSC-Medium.otf</font>
-        <font weight="700" style="normal">SourceHanSansSC-Bold.otf</font>
+        <font weight="300" style="normal">SourceHanSansSC-Regular.otf</font>
+        <font weight="400" style="normal">SourceHanSansSC-Medium.otf</font>
+        <font weight="500" style="normal">SourceHanSansSC-Bold.otf</font>
+        <font weight="600" style="normal">SourceHanSansSC-Bold.otf</font>
+        <font weight="700" style="normal">SourceHanSansSC-Heavy.otf</font>
         <font weight="800" style="normal">SourceHanSansSC-Heavy.otf</font>
         <font weight="900" style="normal">SourceHanSansSC-Heavy.otf</font>
    </family>
@@ -1503,44 +1503,44 @@
     <family lang="zh-Hans">
         <font weight="100" style="normal">SourceHanSansSC-ExtraLight.otf</font>
         <font weight="200" style="normal">SourceHanSansSC-Light.otf</font>
-        <font weight="300" style="normal">SourceHanSansSC-Normal.otf</font>
-        <font weight="400" style="normal">SourceHanSansSC-Regular.otf</font>
-        <font weight="500" style="normal">SourceHanSansSC-Medium.otf</font>
-        <font weight="600" style="normal">SourceHanSansSC-Medium.otf</font>
-        <font weight="700" style="normal">SourceHanSansSC-Bold.otf</font>
+        <font weight="300" style="normal">SourceHanSansSC-Regular.otf</font>
+        <font weight="400" style="normal">SourceHanSansSC-Medium.otf</font>
+        <font weight="500" style="normal">SourceHanSansSC-Bold.otf</font>
+        <font weight="600" style="normal">SourceHanSansSC-Bold.otf</font>
+        <font weight="700" style="normal">SourceHanSansSC-Heavy.otf</font>
         <font weight="800" style="normal">SourceHanSansSC-Heavy.otf</font>
         <font weight="900" style="normal">SourceHanSansSC-Heavy.otf</font>
     </family>
     <family lang="zh-Hant">
         <font weight="100" style="normal">SourceHanSansSC-ExtraLight.otf</font>
         <font weight="200" style="normal">SourceHanSansSC-Light.otf</font>
-        <font weight="300" style="normal">SourceHanSansSC-Normal.otf</font>
-        <font weight="400" style="normal">SourceHanSansSC-Regular.otf</font>
-        <font weight="500" style="normal">SourceHanSansSC-Medium.otf</font>
-        <font weight="600" style="normal">SourceHanSansSC-Medium.otf</font>
-        <font weight="700" style="normal">SourceHanSansSC-Bold.otf</font>
+        <font weight="300" style="normal">SourceHanSansSC-Regular.otf</font>
+        <font weight="400" style="normal">SourceHanSansSC-Medium.otf</font>
+        <font weight="500" style="normal">SourceHanSansSC-Bold.otf</font>
+        <font weight="600" style="normal">SourceHanSansSC-Bold.otf</font>
+        <font weight="700" style="normal">SourceHanSansSC-Heavy.otf</font>
         <font weight="800" style="normal">SourceHanSansSC-Heavy.otf</font>
         <font weight="900" style="normal">SourceHanSansSC-Heavy.otf</font>
     </family>
     <family lang="ja">
         <font weight="100" style="normal">SourceHanSansSC-ExtraLight.otf</font>
         <font weight="200" style="normal">SourceHanSansSC-Light.otf</font>
-        <font weight="300" style="normal">SourceHanSansSC-Normal.otf</font>
-        <font weight="400" style="normal">SourceHanSansSC-Regular.otf</font>
-        <font weight="500" style="normal">SourceHanSansSC-Medium.otf</font>
-        <font weight="600" style="normal">SourceHanSansSC-Medium.otf</font>
-        <font weight="700" style="normal">SourceHanSansSC-Bold.otf</font>
+        <font weight="300" style="normal">SourceHanSansSC-Regular.otf</font>
+        <font weight="400" style="normal">SourceHanSansSC-Medium.otf</font>
+        <font weight="500" style="normal">SourceHanSansSC-Bold.otf</font>
+        <font weight="600" style="normal">SourceHanSansSC-Bold.otf</font>
+        <font weight="700" style="normal">SourceHanSansSC-Heavy.otf</font>
         <font weight="800" style="normal">SourceHanSansSC-Heavy.otf</font>
         <font weight="900" style="normal">SourceHanSansSC-Heavy.otf</font>
     </family>
     <family lang="ko">
         <font weight="100" style="normal">SourceHanSansSC-ExtraLight.otf</font>
         <font weight="200" style="normal">SourceHanSansSC-Light.otf</font>
-        <font weight="300" style="normal">SourceHanSansSC-Normal.otf</font>
-        <font weight="400" style="normal">SourceHanSansSC-Regular.otf</font>
-        <font weight="500" style="normal">SourceHanSansSC-Medium.otf</font>
-        <font weight="600" style="normal">SourceHanSansSC-Medium.otf</font>
-        <font weight="700" style="normal">SourceHanSansSC-Bold.otf</font>
+        <font weight="300" style="normal">SourceHanSansSC-Regular.otf</font>
+        <font weight="400" style="normal">SourceHanSansSC-Medium.otf</font>
+        <font weight="500" style="normal">SourceHanSansSC-Bold.otf</font>
+        <font weight="600" style="normal">SourceHanSansSC-Bold.otf</font>
+        <font weight="700" style="normal">SourceHanSansSC-Heavy.otf</font>
         <font weight="800" style="normal">SourceHanSansSC-Heavy.otf</font>
         <font weight="900" style="normal">SourceHanSansSC-Heavy.otf</font>
     </family>
