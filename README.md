@@ -1,6 +1,6 @@
 # SourceHanSansSC-FontModule
 
-思源黑体 SourceHanSansSC 字体替换包，包含9字重，修改自lxgw的 CJK 字体 Magisk 模块模板
+思源黑体 SourceHanSansSC Magisk字体模块，包含9字重，修改自lxgw的 CJK 字体 Magisk 模块模板
 
 100-ExtraLight
 200-Light
